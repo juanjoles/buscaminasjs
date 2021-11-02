@@ -41,3 +41,5 @@ GET: /id
 Selecciona una partida determinada, si no se encuentra le pedida generar una nueva.
 
 GET: método adicional para listar todas las partidas existentes.
+
+*NOTA: deje los console.log de los tableros generados para que se vea mejor.
